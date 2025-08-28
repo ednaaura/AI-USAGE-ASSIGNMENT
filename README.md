@@ -1,0 +1,2 @@
+# AI-USAGE-ASSIGNMENT
+AI USAGE assignment
